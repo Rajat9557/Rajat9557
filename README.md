@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/rajat-singh-b09275151?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://github.com/Rajat9557)
+- 👨‍💻 All of my projects are available at (https://github.com/Rajat9557)
 
 - 📫 How to reach me **rajatsingh3982@gmail.com**
 
